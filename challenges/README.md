@@ -43,6 +43,8 @@ If there is information outside of a scope a closure will allow you to access it
 
 5. Why do we need super() in an extended class?
 
+super binds classes together so that the abilities that you give to the parent can be passed on to the child.
+
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
 
 ## Instructions
