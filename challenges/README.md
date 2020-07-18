@@ -32,6 +32,7 @@ Be prepared to demonstrate your understanding of this week's concepts by answeri
 a higher order function can take another function as an argument but a callback can be sent to another function.
 
 3. What is closure?
+If there is information outside of a scope a closure will allow you to access it.
 
 4. Describe the four rules of the 'this' keyword.
 
