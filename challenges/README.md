@@ -36,6 +36,11 @@ If there is information outside of a scope a closure will allow you to access it
 
 4. Describe the four rules of the 'this' keyword.
 
+  1. If "this" is in the global scope of the function then it will be what is in the browsers window, or the window object.
+  2. If you call a function using a . operator then the object is "this"
+  3. "this" will call a unique object when using a constructor
+  4. when "this" is used with an => it keeps the same value of its parent.
+
 5. Why do we need super() in an extended class?
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
